@@ -16,6 +16,7 @@ Dette dokument bruges til at føre log over mit arbejde med øvelserne.
 20260723 slettede hele det lokale repo og clonede igen fra https://github.com/khyld/ai-agents-for-beginners.git
 20260723 Slettede alle installationer af Python og installerede Python 3.12 igen
 Kørte derefter : pip install -r requirements.txt og alt kørte igennem uden fejl
+Modul 3 & 4 kørt igennem
 
 ### Øvelser/lektioner gennemgået
 - 
